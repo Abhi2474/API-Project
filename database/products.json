@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "63fee1a72b11294f8fbfbfa1"
+  },
+  "name": "Margarita",
+  "price": 699,
+  "size": "L",
+  "image": "uploads\\1677648295060-334377508.25258505.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677648295098"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649296395"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee3e9a24fe1bcff633cb5"
+  },
+  "name": "Four cheese",
+  "price": 799,
+  "size": "Medium",
+  "image": "uploads\\1677648873456-937566008.9381425.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677648873493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677648873493"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee416a24fe1bcff633cb8"
+  },
+  "name": "Chicken mushroom",
+  "price": 699,
+  "size": "Small",
+  "image": "uploads\\1677648918430-67043365.011099085.avif",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677648918452"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677648918452"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee44da24fe1bcff633cbe"
+  },
+  "name": "Carbonara",
+  "price": 999,
+  "size": "Large",
+  "image": "uploads\\1677648973231-684868690.5067391.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677648973251"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677648973251"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee46ca24fe1bcff633cc1"
+  },
+  "name": "Mix BBQ",
+  "price": 1299,
+  "size": "Large",
+  "image": "uploads\\1677649004434-918180825.0860466.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677649004445"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649004445"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee48aa24fe1bcff633cc4"
+  },
+  "name": "Mushroom",
+  "price": 499,
+  "size": "Small",
+  "image": "uploads\\1677649034326-888022738.9949813.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677649034362"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649034362"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee4a5a24fe1bcff633cc7"
+  },
+  "name": "Double peperoni",
+  "price": 1399,
+  "size": "Large",
+  "image": "uploads\\1677649061242-495912249.513919.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677649061252"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649061252"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee4c0a24fe1bcff633cca"
+  },
+  "name": "Chicken premier",
+  "price": 899,
+  "size": "Medium",
+  "image": "uploads\\1677649088864-527042878.46683925.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677649088876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649088876"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee4d9a24fe1bcff633ccd"
+  },
+  "name": "Caramel pineapple",
+  "price": 799,
+  "size": "Small",
+  "image": "uploads\\1677649113271-722186953.2824061.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677649113278"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649113278"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fee4eba24fe1bcff633cd0"
+  },
+  "name": "Havana special",
+  "price": 599,
+  "size": "Small",
+  "image": "uploads\\1677649131563-452588117.5972657.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677649131569"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677649131569"
+    }
+  }
+}]
