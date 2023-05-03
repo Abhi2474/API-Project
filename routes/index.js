@@ -20,7 +20,8 @@ router.get('/products', productController.index);
 router.get('/products/:id', productController.show);
 
 // to check with login authentication making this to post request
-router.post('/productslogin',login, productController.index);
+// router.post('/productslogin',login, productController.index);
+router.get('/productslogin',auth, productController.index);
 
 
 export default router
